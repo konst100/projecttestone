@@ -1,15 +1,15 @@
-'use strict';
+" use strict ";
 
-if (4 == 9) {
-    console.log('ok');
+if ( 4 == 9 ) {
+  console.log( "ok" );
 } else {
-console.log('eror');
+  console.log( "eror" );
 }
 
 const num = 50;
 
-if (num < 49) {
-    console.log('error');
+if ( num < 49 ) {
+  console.log ( "error" );
 }else {
-    console.log('es');
+  console.log( "es" );
 }
